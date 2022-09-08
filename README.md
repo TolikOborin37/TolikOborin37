@@ -4,6 +4,8 @@ I am a beginner C# developer. At the moment, while studying the theoretical foun
 
 ### My opensource projects:
 * [AlgoritmPractic](https://github.com/TolikOborin37/AlgoritmPractic) - the task of obtaining a sorted list of numeric values by applying several sorting algorithms.
+* [Parsing_Url](https://github.com/TolikOborin37/Parsing_Url) - implementation of site parsing without additional libraries.
+* [MindBox_TaskClassLib_Figure_Test](https://github.com/TolikOborin37/MindBox_TaskClassLib_Figure_Test) - applying unit testing to a library [MindBox_Task_ClassLib_Figure](https://github.com/TolikOborin37/MindBox_Task_ClassLib_Figure).
 
 ### Technical stack:
 
