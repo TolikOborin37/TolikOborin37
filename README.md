@@ -3,9 +3,10 @@
 I am a beginner C# developer. At the moment, while studying the theoretical foundations and practice in logical tasks.
 
 ### My opensource projects:
-* [AlgoritmPractic](https://github.com/TolikOborin37/AlgoritmPractic) - the task of obtaining a sorted list of numeric values by applying several sorting algorithms.
+* [AlgoritmPractic](https://github.com/TolikOborin37/AlgoritmPractic) - a console-application that allows to sort any numeric list. Implemented commonly used sorting algoritms on C#.
 * [Parsing_Url](https://github.com/TolikOborin37/Parsing_Url) - implementation of site parsing without additional libraries.
-* [MindBox_TaskClassLib_Figure_Test](https://github.com/TolikOborin37/MindBox_TaskClassLib_Figure_Test) - applying unit testing to a library [MindBox_Task_ClassLib_Figure](https://github.com/TolikOborin37/MindBox_Task_ClassLib_Figure).
+* [ComputerShop](https://github.com/TolikOborin37/ComputerShop) - web-application "Computer shop" based on template MVC.
+* [ics-it.SqlScripts](https://github.com/TolikOborin37/ics-it.SqlScripts) - practical tasks on writing sql-scripts (creation functions, procedures, tables, triggers, views).
 
 ### Technical stack:
 
